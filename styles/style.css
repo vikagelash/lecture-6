@@ -1,0 +1,144 @@
+body {
+    background-color: #f8f8f8;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: white;
+    padding-left: 137px;
+}
+
+nav {
+    padding-top: 21px;
+}
+
+
+nav > a {
+    text-decoration: none;
+    color: #000000;
+    font-size: 11px;
+    font-weight: 700;
+    font-family: Roboto, sans-serif;
+    margin-right: 35px;
+}
+
+#pfp {
+    vertical-align: middle;
+    margin-left: -6px;
+    width: 32px;
+    height: 32px;
+    border-radius: 20px;
+}
+
+#tranding {
+    margin-top: 42px;
+    font-size: 24px;
+    font-weight: 700;
+    font-family: Roboto, sans-serif;
+    color: #000000;
+}
+
+section {
+    padding-top: 53px;
+    padding-left: 137px;
+}
+
+.container {
+    margin-top: 27px;
+}
+
+.photos {
+    height: 186px;
+    width: 362px;
+    border-radius: 5px;
+}
+
+.parent {
+    position: relative;
+    top: 0;
+    height: 186px;
+    width: 362px;
+    display: inline-block;
+    margin-right: 40px;
+}
+.textover {
+    position: absolute;
+    top: 32px; 
+    left: 41px; 
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    font-family: Roboto, sans-serif;
+}
+
+.child {
+    position: absolute;
+    top: 186px;
+    width: 362px;
+    height: 171px;
+    background-color: #FFFFFF;
+}
+
+.text {
+    font-size: 10px;
+    font-weight: 700;
+    color: #8A8787; 
+    font-family: Roboto, sans-serif;
+    padding: 68px 87px 0 37px;
+    line-height: 2.5;
+}
+
+.clock {
+    width: 16px;
+    height: 16px;
+    margin-top: 11px;
+    margin-left: 40px;
+}
+
+.date {
+    display: inline-block;
+    margin-left: 11px;
+    font-size: 10px;
+    font-weight: 700;
+    font-family: Roboto, sans-serif;
+    color: #8A8787;
+}
+
+#hapening {
+    margin-top: 228px;
+    font-size: 24px;
+    font-weight: 800;
+    font-family: Roboto, sans-serif;
+    color:#000000
+}
+
+
+.bigphoto {
+    width: 758px;
+    height: 430px;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+
+#bigphoto1 {
+    position: relative;
+    margin-bottom: 42px;
+}
+
+.textover2 {
+    position: absolute;
+    top: 233px; 
+    left: 278px; 
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    font-family: Roboto, sans-serif;
+}
+
+footer {
+    background-color: #243043;
+    height: 201px;
+    margin-top: 36px;
+}
